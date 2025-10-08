@@ -1,3 +1,8 @@
-pandas
+# Core ML & data processing
 numpy
+pandas
+scikit-learn
+scipy
+
+# Utility and logging
 -e .
